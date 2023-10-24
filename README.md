@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/doener23/doenerium?style=flat">
-<img src="https://img.shields.io/github/stars/doener23/doenerium?color=brightgreen">
-<img src="https://img.shields.io/github/forks/doener23/doenerium?color=brightgreen">
+<img src="https://img.shields.io/github/last-commit/MrShadowDev/doenerium?style=flat">
+<img src="https://img.shields.io/github/stars/MrShadowDev/doenerium?color=brightgreen">
+<img src="https://img.shields.io/github/forks/MrShadowDev/doenerium?color=brightgreen">
 </p>
 
 <p align="center">
