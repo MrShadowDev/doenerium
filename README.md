@@ -143,6 +143,6 @@ I am not responsible for any damages this software may cause. This was made for 
 
 ### Credits
 
-Credits to Pandoric / PandoricGalaxy & doener2323 for creating this beautiful README file
+Credits to Pandoric / PandoricGalaxy & doener2323
 
 <p align="center"><a href=#top>Back to Top</a></p>
